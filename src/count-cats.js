@@ -21,7 +21,7 @@ function countCats(matrix) {
       if (item === "^^") count += 1;
     })
   );
-  return count; 
+  return count;
 }
 
 module.exports = {
